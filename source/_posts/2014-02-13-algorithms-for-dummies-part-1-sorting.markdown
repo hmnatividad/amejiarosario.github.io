@@ -206,7 +206,7 @@ for(c=0; c&lt;n; c++){
   <tr>
     <td>2^n</td>
     <td>Exponential</td>
-    <td>Trying to braeak a password generating all possible combinations</td>
+    <td>Trying to break a password generating all possible combinations</td>
     <td>Exhaustive search</td>
   </tr>
 </table>
